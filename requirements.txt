@@ -1,0 +1,5 @@
+cryptography
+pyotp
+onetimepass
+qrcode
+pillow
